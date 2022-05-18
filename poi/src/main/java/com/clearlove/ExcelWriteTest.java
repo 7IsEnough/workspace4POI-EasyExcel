@@ -34,7 +34,7 @@ public class ExcelWriteTest {
     cell11.setCellValue("今日新增人数");
     // (1,2)
     Cell cell12 = row1.createCell(1);
-    cell12.setCellValue("666");
+    cell12.setCellValue(666);
 
 
     // 第二行
@@ -69,7 +69,7 @@ public class ExcelWriteTest {
     cell11.setCellValue("今日新增人数");
     // (1,2)
     Cell cell12 = row1.createCell(1);
-    cell12.setCellValue("666");
+    cell12.setCellValue(666);
 
 
     // 第二行
